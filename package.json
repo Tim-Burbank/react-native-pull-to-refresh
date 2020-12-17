@@ -1,0 +1,16 @@
+{
+  "name": "react-native-pull-refresh",
+  "version": "1.0.14",
+  "description": "The react native version of pull refresh",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "contributors": [],
+  "license": "ISC"
+}
